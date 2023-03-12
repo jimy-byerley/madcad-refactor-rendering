@@ -1,0 +1,6 @@
+''' displays for mechanical workflow '''
+
+# NOTE: all these were previously in madcad.kinematic
+
+class SolidDisplay:	...
+class Kinemanip: ...
