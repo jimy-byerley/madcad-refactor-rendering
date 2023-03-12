@@ -48,12 +48,6 @@ class SubSceneSVG:
 	def display(self, scene):
 		...
 
-def blueprint(content: list, view=mat4(1), projection=mat4(1), **options) -> Svg:
-	''' create a SVG document out of a 2D scene made of SVG elements '''
-	...
-	svg = Svg(some_options)
-	SceneSVG(content, options).render(svg)
-	return svg
 	
 	
 
